@@ -1,5 +1,9 @@
 # A MERN Stack App
 
+navigate to where you clone the file
+enter the project using `cd practice-mern` to enter the cloned directory
+
+
 ## server side:
 
 #### dependencies:
